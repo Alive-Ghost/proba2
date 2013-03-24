@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <element>
+    <question>Вы устали?</question>
+    <respond>True</respond>
+    <date>2013.3.25 0/45</date>
+  </element>
+  <element>
+    <question>Вы хотите кофе?</question>
+    <respond>True</respond>
+    <date>2013.3.25 0/50</date>
+  </element>
+  
+</catalog>
